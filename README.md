@@ -56,3 +56,19 @@
 #Here, <b><i>-m</i></b> stands <b><i>message</i></b>
 <br>
 <code>git commit -m <b>"message"</b></code>
+
+
+
+<hr><br>
+<!-- To push the changes to the remote repository -->
+<i>Push Command</i>
+<br>
+<code>git push origin main</code>
+<br>
+#Here, <i><b>origin</i></b> is <i><b>github repository</i></b>
+<br>
+#And, <i><b>main</i></b> is <i><b>branch name</i></b>
+
+
+
+<hr><br>
