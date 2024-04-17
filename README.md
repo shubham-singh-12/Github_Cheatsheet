@@ -33,10 +33,8 @@
 <hr><br>
 <!-- Add new or Changed files in our Working directory to the git staging area -->
 <i>Add</i><br>
-#To Add a particular file.<br>
-<code>git add <b>file_name</b></code><br> 
-#To Add all the files.<br>
-<code>git add .</code>
+<b>To Add a particular file: <b><code>git add <b>file_name</b></code><br> 
+<b>To Add all the files: <b><code>git add .</code>
 
 
 
