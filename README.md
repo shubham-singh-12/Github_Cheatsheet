@@ -72,3 +72,9 @@
 
 
 <hr><br>
+<!-- It is used to create a new git repository -->
+<i>Init Command</i>
+<br>
+<code>git init</code>
+<br>
+<code>git remote add origin <strong></strong></code>
