@@ -46,3 +46,12 @@
 #To Add all the files.
 <br>
 <code>git add .</code>
+
+
+
+<hr><br>
+<!-- It is the Record of Change -->
+<i>Commit</i>
+<br>
+#Here, <b>-m</b> stands <b>message</b>
+<code>git commit -m <b>"message"</b></code>
