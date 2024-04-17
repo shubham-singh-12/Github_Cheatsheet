@@ -53,5 +53,6 @@
 <!-- It is the Record of Change -->
 <i>Commit</i>
 <br>
-#Here, <b>-m</b> stands <b>message</b>
+#Here, <b><i>-m</i></b> stands <b><i>message</i></b>
+<br>
 <code>git commit -m <b>"message"</b></code>
