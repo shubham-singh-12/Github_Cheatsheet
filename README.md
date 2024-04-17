@@ -15,7 +15,7 @@
 <hr><br>
 <!-- Clone a Repository on our Local Machine -->
 <i>Clone Repository on Local Machine</i><br>
-<code>git clone <b>repository link</b></code>
+<code>git clone <b>repository_link</b></code>
 
 <hr><br>
 <!-- Check Status -->
@@ -23,3 +23,7 @@
 <code>git status</code>
 
 <hr><br>
+<!-- Add new or Changed files in our Working directory to the git staging area -->
+<i>Add</i><br>
+#To Add a particular file.
+<code>git add <b>file_name</b></code>   
