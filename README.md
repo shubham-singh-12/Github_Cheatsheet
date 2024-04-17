@@ -17,4 +17,9 @@
 <i>Clone Repository on Local Machine</i><br>
 <code>git clone <b>repository link</b></code>
 
+<hr><br>
+<!-- Check Status -->
+<i>To Check Status</i><br>
+<code>git status</code>
 
+<hr><br>
