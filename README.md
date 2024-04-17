@@ -25,5 +25,5 @@
 <hr><br>
 <!-- Add new or Changed files in our Working directory to the git staging area -->
 <i>Add</i><br>
-#To Add a particular file.
+#To Add a particular file.<br>
 <code>git add <b>file_name</b></code>   
