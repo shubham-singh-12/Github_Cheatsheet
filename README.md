@@ -26,4 +26,7 @@
 <!-- Add new or Changed files in our Working directory to the git staging area -->
 <i>Add</i><br>
 #To Add a particular file.<br>
-<code>git add <b>file_name</b></code>   
+<code>git add <b>file_name</b></code>
+<br> 
+#To Add all the files.<br>
+<code>git add .</code>
