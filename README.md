@@ -4,4 +4,4 @@
 <code> git --version </code>
 
 <!-- Configuring Git -->
-<code> git config --global user.name <b>"username"</b</code>
+<code> git config --global user.name <b>"username"</b></code>
