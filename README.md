@@ -265,3 +265,21 @@ OR
 
 
 <hr><br>
+<h2>Inspecting and Comparision</h2>
+<br><br>
+
+<i>Display the version history for the current branch: </b></i>
+<code>git log</code>
+<br>
+
+<i>Shows changes to a specific file: </i>
+<code>git lof --follow <b>[file]</b></code>
+<br>
+
+<i>Shows content differences between 2 branches: </i>
+<code>git diff <b>[brancheB]</b></code>
+<br>
+
+
+
+<hr><br>
