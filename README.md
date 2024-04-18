@@ -283,3 +283,29 @@ OR
 
 
 <hr><br>
+<h2>Working with Specific Commits</h2>
+<br><br>
+
+<i>Shows metadata and content changes of the specified commit: </b></i>
+<code>git show <b>[commit]</b></code>
+<br>
+
+<i>Applies the changes introduced by the specified commit on the current branch: </i>
+<code>git cherry-pick <b>[commit]</b></code>
+<br>
+
+<i>Moves the current branch tip backward to the specified commit, leaving the changes in staging: </i>
+<code>git reset --soft <b>[commit]</b></code>
+<br>
+
+<i>Moves the current branch tip backward to the specified commit, leaving the changes unstaged: </i>
+<code>git reset <b>[commit]</b></code>
+<br>
+
+<i>Reset the working directory to the specified commit, discarding all changes: </i>
+<code>git reset --hard <b>[commit]</b></code>
+<br>
+
+
+
+<hr><br>
