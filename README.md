@@ -251,3 +251,17 @@ OR
 
 
 <hr><br>
+<h2>Sharing and Updating Projects</h2>
+<br><br>
+
+<i>Uploads local branch commits to the remote repository branch: </b></i>
+<code>git push <b>[alias] [branch]</b></code>
+<br>
+
+<i>Integrates remote branch changes into the current local branch: </i>
+<code>git pull</code>
+<br>
+
+
+
+<hr><br>
