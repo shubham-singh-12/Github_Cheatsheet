@@ -139,3 +139,49 @@ OR
 
 
 <hr><br>
+<h2>Merge Conflicts OR Resolving Merge Conflicts</h2>
+<br>
+
+<i>An Event that takes place when git isunable to automatically resolve differences in code between 2 commits.</i>
+
+
+
+<hr><br>
+<h2>Undoing Changes</h2>
+<br>
+<b>CASE 1:</b>
+<br>
+<i>Changes that were <b>add</b> but not <b>commit</b></i>
+<code>Staged changes</code>
+<br>
+<i>For single file</i>
+<code>git reset <b>file name</b></code>
+<br>
+<i>For multi file</i>
+<code>git reset</code>
+<br>
+
+<b>CASE 2:</b>
+<br>
+<i>For One Commit</b></i>
+<code>commited changes</code>
+<br>
+<i>HEAD is the latest changed occurs</i>
+<code>git reset HEAD~1</b></code>
+<br>
+
+<b>CASE 3:</b>
+<br>
+<i>For many commits</i>
+<code>commited changes</code>
+<br>
+<i>Commit Hash</i>
+<code>git reset <b>commit name</b></code>
+<br>
+<i>Commit Hash</i>
+<code>git reset --hard</code>
+<br>
+
+
+
+<hr><br>
