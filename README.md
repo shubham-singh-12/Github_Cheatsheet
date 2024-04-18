@@ -77,7 +77,9 @@ OR<br>
 
 
 <hr><br>
-<h2>Branch Command</h2><br>
+<h2>Branch Command</h2>
+<br>
+
 <i>To Check Branch: </i>
 <code>git branch</code>
 <br>
@@ -96,3 +98,7 @@ OR<br>
 
 <i>To delete branch: </i>
 <code>git branch -d <b>branch name</b></code>
+
+
+
+<hr><br>
