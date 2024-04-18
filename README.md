@@ -57,7 +57,7 @@
 
 <hr><br>
 <!-- It is used to create a new git repository -->
-<i>Init Command</i><br>
+<h4>Init Command</h4><br>
 
 <code>git init</code><br>
 
@@ -72,9 +72,9 @@
 <i>To Rename branch to Main: </i>
 <code>git branch -M <b>main</b></code>
 
-<h5>Upload local branch commits to the remote repository branch</h5>
+<i>Upload local branch commits to the remote repository branch</i>
 <code>git push -u origin main</code><br>
-OR
+OR<br>
 <code>git push origin main</code>
 
 
