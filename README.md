@@ -273,7 +273,7 @@ OR
 <br>
 
 <i>Shows changes to a specific file: </i>
-<code>git lof --follow <b>[file]</b></code>
+<code>git log --follow <b>[file]</b></code>
 <br>
 
 <i>Shows content differences between 2 branches: </i>
