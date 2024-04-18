@@ -105,7 +105,7 @@ OR<br>
 <h2>Merging Code (branch)</h2>
 <br>
 
-<h4>WAY - 1</h4>
+<h4><center>WAY - 1</center></h4>
 <br>
 <i>To compare commits, branches, files & more: </i>
 <code>git diff <b>branch name</b></code>
