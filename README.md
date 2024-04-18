@@ -132,6 +132,8 @@ OR<br>
 <br>
 <code>git pull origin <b>main</b></code>
 <br>
+OR
+<br>
 <code>git pull <b>link</b></code>
 
 
