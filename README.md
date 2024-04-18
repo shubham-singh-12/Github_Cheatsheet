@@ -225,3 +225,29 @@ OR
 
 
 <hr><br>
+<h2>Branches and Merging</h2>
+<br><br>
+
+<i>Lista all Branches in the repository: </b></i>
+<code>git branch</code>
+<br>
+
+<i>Create a new branch: </i>
+<code>git branch <b>[branch_name]</b></code>
+<br>
+
+<i>Switches to the specified branch: </i>
+<code>git checkout <b>[branch_name]</b></code>
+<br>
+
+<i>Merging the specified branch's history into the current branch: </b></i>
+<code>git merge <b>[branch]</b></code>
+<br>
+
+<i>Delete the specified branch: </i>
+<code>git branch -d <b>[branch_name]</b></code>
+<br>
+
+
+
+<hr><br>
