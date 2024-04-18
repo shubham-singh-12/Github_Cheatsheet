@@ -78,8 +78,21 @@ OR<br>
 
 <hr><br>
 <h2>Branch Command</h2><br>
-<i>To Check Branch: </i><br>
+<i>To Check Branch: </i>
 <code>git branch</code>
+<br>
 
-<i>To Change branch name to main</i><br>
+<i>To Change branch name to main: </i>
 <code>git branch -M <b>main</b></code>
+<br>
+
+<i>To move from one branch to another: </i>
+<code>git checkout <b>branch name</b></code>
+<br>
+
+<i>Create new branch and move to that branch: </i>
+<code>git checkout -b <b>branch name</b></code>
+<br>
+
+<i>To delete branch: </i>
+<code>git branch -d <b>branch name</b></code>
