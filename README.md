@@ -309,3 +309,13 @@ OR
 
 
 <hr><br>
+<h2>Undoing Changes</h2>
+<br><br>
+
+<i>Undoes all commits after [commit], preserving changes locally: </b></i>
+<code>git reset <b>[commit]</b></code>
+<br>
+
+<i>Eraseall changes after the specified commit: </i>
+<code>git reset --hard <b>[commit]</b></code>
+<br>
