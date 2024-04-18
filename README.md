@@ -40,7 +40,7 @@
 
 <hr><br>
 <!-- It is the Record of Change -->
-<2>Commit</2><br>
+<h2>Commit</h2><br>
 #Here, <b><i>-m</i></b> stands <b><i>message</i></b><br>
 <code>git commit -m <b>"message"</b></code>
 
