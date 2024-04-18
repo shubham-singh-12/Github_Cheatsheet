@@ -72,7 +72,7 @@
 <i>To Rename branch to Main: </i>
 <code>git branch -M <b>main</b></code>
 
-<i>Upload local branch commits to the remote repository branch</i>
+<i>Upload local branch commits to the remote repository branch</i><br>
 <code>git push -u origin main</code><br>
 OR<br>
 <code>git push origin main</code>
