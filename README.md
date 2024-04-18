@@ -148,7 +148,8 @@ OR
 
 <hr><br>
 <h2>Undoing Changes</h2>
-<br>
+<br><br>
+
 <b>CASE 1:</b>
 <br>
 <i>Changes that were <b>add</b> but not <b>commit</b></i>
@@ -159,7 +160,7 @@ OR
 <br>
 <i>For multi file</i>
 <code>git reset</code>
-<br>
+<br><br>
 
 <b>CASE 2:</b>
 <br>
@@ -168,7 +169,7 @@ OR
 <br>
 <i>HEAD is the latest changed occurs</i>
 <code>git reset HEAD~1</b></code>
-<br>
+<br><br>
 
 <b>CASE 3:</b>
 <br>
