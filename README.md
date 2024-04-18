@@ -102,3 +102,23 @@ OR<br>
 
 
 <hr><br>
+<h2>Merging Code (branch)</h2>
+<br>
+
+<h4>WAY - 1</h4><br>
+<i>To compare commits, branches, files & more: </i>
+<code>git diff <b>branch name</b></code>
+<br>
+
+<i>To merge 2 branches: </i>
+<code>git merge <b>branch name</b></code>
+<br>
+
+<h4>WAY - 2</h4><br>
+<i>Create a <b>PR</b> (Pull Request)</i><br>
+<b>PR: </b>It let us tell other's about changes we've pushed to a branch in a repository on Github.
+<br>
+
+
+
+<hr><br>
