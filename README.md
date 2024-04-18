@@ -195,3 +195,33 @@ OR
 
 
 <hr><br>
+<h2>Managing Commits</h2>
+<br><br>
+
+<i>Modify the last commit: </b></i>
+<code>git commit --amend</code>
+<br>
+
+<i>Modify the last commit without changing the commit message: </i>
+<code>git commit --amend --no-edit</code>
+<br>
+
+<i>Displays a condensed commit history: </i>
+<code>git log --oneline</code>
+<br>
+
+<i>Shows the commit history in graphical form: </b></i>
+<code>git log --graph</code>
+<br>
+
+<i>Reapplies changes on top of another base tip: </i>
+<code>git rebase <b>[branch]</b></code>
+<br>
+
+<i>Create a new commit that undoes the specified changes: </i>
+<code>git revert <b>[commit]</b></code>
+<br>
+
+
+
+<hr><br>
