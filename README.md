@@ -105,7 +105,7 @@ OR<br>
 <h2>Merging Code (branch)</h2>
 <br>
 
-<h4><center>WAY - 1</center></h4>
+<h4>WAY - 1</h4>
 <br>
 <i>To compare commits, branches, files & more: </i>
 <code>git diff <b>branch name</b></code>
@@ -121,6 +121,18 @@ OR<br>
 <br>
 <b>PR: </b>It let us tell other's about changes we've pushed to a branch in a repository on Github.
 <br>
+
+
+
+<hr><br>
+<h2>Pull Command</h2>
+<br>
+
+<i>It is used to fetch and download content from a remote repository and immediately update the local repository to match that content.</i>
+<br>
+<code>git pull origin <b>main</b></code>
+<br>
+<code>git pull <b>link</b></code>
 
 
 
