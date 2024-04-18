@@ -188,9 +188,9 @@ OR
 <hr><br>
 <h2>Fork</h2>
 <br>
-<i>A fork is a new repository that shares code and visibility settings with the original "upstream" repository</i>
+<i>A fork is a new repository that shares code and visibility settings with the original "upstream" repository.</i>
 <br>
-<i>Fork is a rough copy</i>
+<i>Fork is a rough copy.</i>
 
 
 
