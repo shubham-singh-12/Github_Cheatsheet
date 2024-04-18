@@ -156,7 +156,7 @@ OR
 <code>Staged changes</code>
 <br>
 <i>For single file</i>
-<code>git reset <b>file name</b></code>
+<code>git reset <b>file_name</b></code>
 <br>
 <i>For multi file</i>
 <code>git reset</code>
@@ -177,7 +177,7 @@ OR
 <code>commited changes</code>
 <br>
 <i>Commit Hash</i>
-<code>git reset <b>commit name</b></code>
+<code>git reset <b>commit_name</b></code>
 <br>
 <i>Commit Hash</i>
 <code>git reset --hard</code>
