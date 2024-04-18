@@ -57,7 +57,7 @@
 
 <hr><br>
 <!-- It is used to create a new git repository -->
-<h4>Init Command</h4><br>
+<h3>Init Command</h3><br>
 
 <code>git init</code><br>
 
